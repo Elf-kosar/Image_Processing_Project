@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/4d00b70e-1193-4513-b2e7-26286123ed34)
+![1](https://github.com/user-attachments/assets/0ee31e1e-47c5-4103-89f0-3174b6843531)
 
 # <h1 align="center">IMAGE PROCESSING PROJECT</h1>
 
